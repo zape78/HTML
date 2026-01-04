@@ -11,3 +11,4 @@ Lab 5: Audio Video Player 1/3/2026<br>
 Workshop: Build Heart Icon 1/4/2026<br>
 Workshop: HTML Video Player 1/4/2026<br>
 Workshop: Iframe Video Display 1/4/2026<br>
+Lab 6: Iframe Video Compilation 1/4/2026<br>
