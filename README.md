@@ -9,3 +9,4 @@ Workshop: Bookstore Page 1/3/2026<br>
 Lab 4: Travel Agency Page 1/3/2026<br>
 Lab 5: Audio Video Player 1/3/2026<br>
 Workshop: Build Heart Icon 1/4/2026<br>
+Workshop: HTML Video Player 1/4/2026<br>
